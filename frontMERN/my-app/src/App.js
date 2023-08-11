@@ -3,7 +3,7 @@ import './App.css';
 
 import CreateBook from './components/CreateBook';
 import ShowBookList from './components/ShowBookList';
-import ShowBookDetails from './component/ShowBookDetails';
+import ShowBookDetails from './components/ShowBookDetails';
 import UpdateBookInfo from './components/UpdateBookInfo';
 
 const App = () => {
